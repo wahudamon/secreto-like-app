@@ -6,7 +6,8 @@
         {{message.content}}
       </li>
     </ul>
-    <router-link to="/new"><button type="submit" class="btn green">Tambah Baru</button></router-link>    
+    <router-link to="/new"><button type="submit" class="btn green">Tambah Baru</button></router-link>
+    <router-link to="/about"><button type="submit" class="btn blue">Tentang Laman Ini</button></router-link>    
   </div>
 </template>
 
