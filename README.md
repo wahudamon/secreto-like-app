@@ -1,6 +1,6 @@
-# katainbagasapp
+# Ngatain Bagas Kuy!
 
-> Aplikasi yang digunakan untuk memberikan kata-kata motivasi kepada bagas
+> Membuat aplikasi seperti secreto dengan menggunakan Vue.Js dan Firebase
 
 ## Build Setup
 
